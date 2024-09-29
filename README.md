@@ -36,7 +36,4 @@ This project implements Conway's Game of Life using CUDA for parallel computatio
 
 Feel free to submit issues or pull requests if you have suggestions for improvements or additional features!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
